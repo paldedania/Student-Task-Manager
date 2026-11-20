@@ -18,3 +18,4 @@ const student = {
     course: "CSE"
 };
 
+console.log("welcome")
