@@ -1,0 +1,7 @@
+.solar-system{
+    background-attachment: fixed;
+    background-color: aqua;
+    background-image: -moz-element();
+    background-position: 0%;
+    background-repeat: no-repeat;
+}
